@@ -9,6 +9,9 @@
 
 I'm Mahnoor, a passionate **Computational Finance** student with a keen interest in **Python programming**.  
 I'm dedicated to enhancing my coding skills through hands-on projects and continuous learning.
+Learning how mathematics, finance and programming come together to solve real world financial problems. 
+Exploring areas like data analysis, financial modelling and coding. 
+Always eager to learn, grow and apply knowledge to real world challenges.
 
 ## 🛠️ Skills & Technologies
 
