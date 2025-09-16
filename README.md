@@ -3,7 +3,7 @@
 
 🎓 **Computational Finance** student at **NED University**, Karachi  
 📍 Based in **Karachi, Pakistan**  
-🔗 [LinkedIn](https://www.linkedin.com/in/mahnoor-khawaja) | [GitHub](https://github.com/mahnoor0618)
+🔗 [LinkedIn](https://www.linkedin.com/in/mahnoor-shehzad-a37b06356/) | [GitHub](https://github.com/mahnoor0618)
 
 ## 🚀 About Me
 
