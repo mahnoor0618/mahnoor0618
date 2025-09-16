@@ -39,7 +39,7 @@ Here are some of the projects I've been working on:
 
 Feel free to reach out to me via:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mahnoor-khawaja)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahnoor-shehzad-a37b06356/)  
 - 🐙 [GitHub](https://github.com/mahnoor0618)  
 
 ## 🧠 Currently Learning
